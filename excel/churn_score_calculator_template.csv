@@ -1,0 +1,19 @@
+user_id,email,plan_type,monthly_revenue,total_logins_30d,onboarding_step_reached,features_used_count,used_collaboration,days_since_last_login,login_score,onboarding_score,feature_score,collab_score,inactivity_score,total_risk_score,risk_tier,primary_risk_factor,recommended_action
+272,linda.garcia224@example.com,Basic,29,5,3,4,no,10,0,20,0,20,0,40,Amber,Onboarding Stalled,Send Nudge (48hr)
+149,charles.singh181@example.com,Pro,79,6,1,3,yes,14,0,20,20,0,0,40,Amber,Onboarding Stalled,Send Nudge (48hr)
+63,kabir.anderson624@example.com,Basic,29,yes,5,2,2,no,63,25,20,20,20,15,100,Red,Low Login Frequency,Human Outreach (24hr)
+263,barbara.garcia528@example.com,Team,199,5,1,1,no,0,25,20,20,20,0,85,Red,Onboarding Stalled,Human Outreach (24hr)
+187,diya.thomas93@example.com,Basic,29,6,1,1,no,4,0,20,20,20,0,60,Amber,Onboarding Stalled,Send Nudge (48hr)
+48,nancy.garcia630@example.com,Basic,29,yes,4,1,2,no,51,25,20,20,20,15,100,Red,Low Login Frequency,Human Outreach (24hr)
+139,kavya.singh643@example.com,Basic,29,8,3,3,no,1,0,20,0,20,0,40,Amber,Onboarding Stalled,Send Nudge (48hr)
+281,aditya.jones891@example.com,Pro,79,5,1,3,yes,14,0,20,20,0,0,40,Amber,Onboarding Stalled,Send Nudge (48hr)
+13,aarav.singh670@example.com,Pro,79,yes,4,3,2,yes,20,0,20,20,0,0,40,Amber,Low Feature Adoption,Send Nudge (48hr)
+122,michael.verma191@example.com,Basic,29,29,6,6,no,14,0,0,0,20,15,35,Amber,Inactive 7+ Days,Send Nudge (48hr)
+111,ishita.hernandez943@example.com,Basic,29,14,2,3,yes,10,0,20,20,0,15,55,Amber,Inactive 7+ Days,Send Nudge (48hr)
+248,michael.kumar5@example.com,Basic,29,12,2,3,no,14,0,20,20,20,15,75,Red,No Collaboration,Send Nudge (48hr)
+108,david.singh983@example.com,Team,199,7,4,6,no,2,0,0,0,20,0,20,Green,Monitor Monthly,Monitor Monthly
+190,james.garcia524@example.com,Basic,29,5,1,2,no,9,0,20,20,20,15,75,Red,Inactive 7+ Days,Send Nudge (48hr)
+126,charles.sharma670@example.com,Pro,79,34,7,5,yes,0,0,0,0,0,0,0,Green,Monitor Monthly,Monitor Monthly
+95,rahul.patel180@example.com,Basic,29,32,7,7,yes,6,0,0,0,0,0,0,Green,Monitor Monthly,Monitor Monthly
+191,robert.davis422@example.com,Basic,29,6,3,4,no,3,0,20,0,20,0,40,Amber,Onboarding Stalled,Send Nudge (48hr)
+234,karen.lopez392@example.com,Basic,29,37,7,7,yes,11,0,0,0,0,0,0,Green,Monitor Monthly,Monitor Monthly
